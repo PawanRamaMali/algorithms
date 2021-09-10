@@ -1,5 +1,4 @@
 [![PyPI version](https://badge.fury.io/py/algorithms.svg)](https://badge.fury.io/py/algorithms)
-[![Open Source Helpers](https://www.codetriage.com/PawanRamaMali/algorithms/badges/users.svg)](https://www.codetriage.com/PawanRamaMali/algorithms)
 [![Build Status](https://travis-ci.org/PawanRamaMali/algorithms.svg?branch=master)](https://travis-ci.org/PawanRamaMali/algorithms)
 [![Coverage Status](https://coveralls.io/repos/github/PawanRamaMali/algorithms/badge.svg?branch=master)](https://coveralls.io/github/PawanRamaMali/algorithms?branch=master)
 
