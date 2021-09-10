@@ -2,7 +2,6 @@
 [![Build Status](https://travis-ci.org/PawanRamaMali/algorithms.svg?branch=master)](https://travis-ci.org/PawanRamaMali/algorithms)
 [![Coverage Status](https://coveralls.io/repos/github/PawanRamaMali/algorithms/badge.svg?branch=master)](https://coveralls.io/github/PawanRamaMali/algorithms?branch=master)
 
-<p align="center"><img src="https://raw.githubusercontent.com/PawanRamaMali/algorithms/master/docs/source/_static/logo/logotype1blue.png"></p>
 
 Pythonic Data Structures and Algorithms
 =========================================
